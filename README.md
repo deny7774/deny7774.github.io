@@ -1,2 +1,2 @@
-# deny7774.github.io
+# deny
 мой первый сайт
